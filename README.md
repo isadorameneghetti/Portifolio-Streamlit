@@ -13,9 +13,7 @@ https://isadorameneghetti.streamlit.app/
 
 ## Características
 
-- **Design Responsivo**: Layout adaptável para diferentes dispositivos  
 - **Navegação Intuitiva**: Menu lateral com acesso às diferentes seções  
-- **Paleta de Cores Personalizada**: Esquema de cores em tons de azul  
 - **Seções Organizadas**:  
   - **Home**: Apresentação e informações de contato  
   - **Formação e Experiência**: Histórico acadêmico e profissional  
