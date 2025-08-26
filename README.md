@@ -53,7 +53,7 @@ A seção de **Análise Java** inclui:
 ## Estrutura do Projeto
     
 ```bash 
-├── Home.py 
+├── 1_Home.py 
 ├── pages/
 │ ├── 2_Formações.py 
 │ ├──3_Skills.py 
