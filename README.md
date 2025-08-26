@@ -8,6 +8,9 @@
 
 Este é um portfólio interativo desenvolvido em **Streamlit** para apresentar as habilidades, experiências e projetos de **Isadora Meneghetti, Engenheira de Software**, akém de uma análise ligada a falta de profissionais de Java & IA.
 
+## Link - Streamlit
+https://isadorameneghetti.streamlit.app/
+
 ## Características
 
 - **Design Responsivo**: Layout adaptável para diferentes dispositivos  
